@@ -1,0 +1,6 @@
+dist/
+build/
+*.egg-info/
+zaragoza_construction_faq/data/
+__pycache__/
+*.pyc

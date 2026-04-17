@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "zaragoza-construction-faq"
-version = "1.0.0"
-description = "Open Q&A dataset for the Swedish construction industry (byggbranschen). 310 Q&As grounded in Swedish law. By Zaragoza AB."
+version = "1.2.0"
+description = "Open Q&A dataset for the Swedish construction industry (byggbranschen). 503 bilingual (SV+EN) Q&As grounded in Swedish law. By Zaragoza AB."
 readme = "README.md"
 authors = [{ name = "Zaragoza AB", email = "info@zaragoza.se" }]
 license = { text = "CC-BY-4.0" }
@@ -16,6 +16,7 @@ classifiers = [
     "Intended Audience :: Science/Research",
     "License :: OSI Approved :: Creative Commons Attribution 4.0 International",
     "Natural Language :: Swedish",
+    "Natural Language :: English",
     "Programming Language :: Python :: 3",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
     "Topic :: Text Processing :: Linguistic",
