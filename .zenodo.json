@@ -1,0 +1,88 @@
+{
+  "title": "Swedish Construction FAQ — Open Q&A dataset on byggbranschen",
+  "description": "<p>Open question-and-answer dataset covering the Swedish construction industry (byggbranschen). 503 Q&A pairs in version 1.1 across 39 categories including bygglov (building permits), ROT-avdrag, RUT-avdrag, F-skatt, omvänd moms, personalliggare, dolda fel, ABS 18 / AB 04 contracts, arbetsmiljö, dispute resolution, inspection, warranties, and more.</p><p>Every answer is grounded in Swedish primary law (Plan- och bygglagen, Boverkets byggregler, Inkomstskattelagen, Jordabalken, Miljöbalken, Arbetsmiljöverkets föreskrifter) and authoritative guidance from Boverket, Skatteverket, Arbetsmiljöverket, Konsumentverket, and the Swedish Consumer Agency.</p><p>Multi-format distribution: JSON (master), JSONL (HuggingFace), Alpaca instruction, ShareGPT, CSV. Target: 1000+ Q&A pairs.</p><p>Maintained by Zaragoza AB, Helsingborg, Skåne.</p>",
+  "creators": [
+    {
+      "name": "Zaragoza AB",
+      "affiliation": "Zaragoza AB, Helsingborg, Sweden",
+      "orcid": null
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Zaragoza AB",
+      "type": "RightsHolder",
+      "affiliation": "Helsingborg, Sweden"
+    }
+  ],
+  "keywords": [
+    "swedish construction",
+    "byggbransch",
+    "building permit",
+    "bygglov",
+    "ROT-avdrag",
+    "RUT-avdrag",
+    "F-skatt",
+    "personalliggare",
+    "ABS 18",
+    "AB 04",
+    "dolda fel",
+    "arbetsmiljö",
+    "PBL",
+    "BBR",
+    "question answering",
+    "NLP dataset",
+    "instruction tuning",
+    "LLM fine-tuning",
+    "alpaca",
+    "sharegpt",
+    "open dataset",
+    "cc-by-4.0",
+    "sweden",
+    "construction law",
+    "tax deduction"
+  ],
+  "subjects": [
+    {
+      "term": "Construction law",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85031473",
+      "scheme": "url"
+    },
+    {
+      "term": "Natural language processing (Computer science)",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh88002425",
+      "scheme": "url"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "upload_type": "dataset",
+  "language": "swe",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/zaragoza-ab/swedish-construction-faq-1000",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/DecDEPO/swedish-construction-faq",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/zaragozaab/swedish-construction-faq",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://zaragoza.se",
+      "relation": "isDerivedFrom",
+      "resource_type": "other"
+    }
+  ],
+  "communities": [
+    {"identifier": "open-datasets"}
+  ],
+  "notes": "Contact: info@zaragoza.se · +46 73 724 56 28 · Zaragoza AB, Helsingborg, Skåne, Sverige. Maintainer authorized for all public redistribution under CC BY 4.0.",
+  "version": "1.1.0"
+}
