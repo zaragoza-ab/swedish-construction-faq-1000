@@ -11,6 +11,7 @@
 [![Languages: SV + EN](https://img.shields.io/badge/Languages-SV%20%2B%20EN-darkblue)](data/faq-en.json)
 [![HuggingFace Compatible](https://img.shields.io/badge/HuggingFace-Compatible-yellow)](data/faq.jsonl)
 [![Alpaca Format](https://img.shields.io/badge/Format-Alpaca-orange)](data/faq-alpaca.jsonl)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaragoza-ab/swedish-construction-faq-1000/blob/main/notebooks/quickstart.ipynb)
 
 ---
 
