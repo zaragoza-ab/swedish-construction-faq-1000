@@ -13,6 +13,7 @@
 [![Alpaca Format](https://img.shields.io/badge/Format-Alpaca-orange)](data/faq-alpaca.jsonl)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaragoza-ab/swedish-construction-faq-1000/blob/main/notebooks/quickstart.ipynb)
 [![Live Demo](https://img.shields.io/badge/🤗%20Space-Live%20Search-ffcc33)](https://huggingface.co/spaces/DecDEPO/swedish-construction-faq-search)
+[![Google Dataset Search](https://img.shields.io/badge/Google%20Dataset-Indexed-4285F4)](https://zaragoza-ab.github.io/swedish-construction-faq-1000/dataset.html)
 
 ---
 
