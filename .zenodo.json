@@ -40,7 +40,12 @@
     "cc-by-4.0",
     "sweden",
     "construction law",
-    "tax deduction"
+    "tax deduction",
+    "wikidata:Q139393633",
+    "wikidata:Q139393658",
+    "Zaragoza AB",
+    "Helsingborg",
+    "DOI:10.5281/zenodo.19630803"
   ],
   "subjects": [
     {
@@ -75,6 +80,41 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.wikidata.org/wiki/Q139393633",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q139393658",
+      "relation": "isCompiledBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/zaragoza-ab/swedish-construction-terminology",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/zaragoza-ab/byggmaterial-spec-sweden",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/zaragoza-ab/besiktningsprotokoll-mallar",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/zaragoza-ab/renovation-timeline-planner",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://pypi.org/project/zaragoza-construction-faq/",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    },
+    {
       "identifier": "https://zaragoza.se",
       "relation": "isDerivedFrom",
       "resource_type": "other"
@@ -84,5 +124,5 @@
     {"identifier": "open-datasets"}
   ],
   "notes": "Contact: info@zaragoza.se · +46 73 724 56 28 · Zaragoza AB, Helsingborg, Skåne, Sverige. Maintainer authorized for all public redistribution under CC BY 4.0.",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
