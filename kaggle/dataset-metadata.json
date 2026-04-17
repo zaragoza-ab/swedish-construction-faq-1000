@@ -1,0 +1,17 @@
+{
+  "title": "Swedish Construction FAQ",
+  "id": "zaragozaab/swedish-construction-faq",
+  "subtitle": "310 Q&As on Swedish construction law, tax, permits, contracts",
+  "description": "Open Q&A dataset for the Swedish construction industry (byggbranschen). 310 questions in v1.0 across 25 categories: bygglov, ROT-avdrag, RUT-avdrag, F-skatt, omvänd moms, personalliggare, dolda fel, ABS18/AB04 contracts, arbetsmiljö, and more. Every answer grounded in Swedish law (PBL, BBR) and authority guidance (Boverket, Skatteverket, Arbetsmiljöverket). Multi-format: JSON, JSONL, Alpaca, ShareGPT, CSV. Licensed CC BY 4.0 — free for commercial and research use with attribution. Maintained by Zaragoza AB, Helsingborg. Target: 1000+ questions. GitHub mirror: github.com/zaragoza-ab/swedish-construction-faq-1000",
+  "isPrivate": false,
+  "licenses": [{"name": "CC-BY-4.0"}],
+  "keywords": ["faq", "swedish", "construction", "legal", "nlp", "qa", "byggbransch", "llm", "fine-tuning"],
+  "collaborators": [],
+  "resources": [
+    {"path": "faq.json", "description": "Master JSON with _meta and 310 Q&A entries"},
+    {"path": "faq.jsonl", "description": "Line-delimited JSON for HuggingFace"},
+    {"path": "faq-alpaca.jsonl", "description": "Alpaca instruction format"},
+    {"path": "faq-sharegpt.jsonl", "description": "ShareGPT conversation format"},
+    {"path": "faq.csv", "description": "CSV for Excel / Google Sheets"}
+  ]
+}

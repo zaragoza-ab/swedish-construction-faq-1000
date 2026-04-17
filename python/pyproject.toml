@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zaragoza-construction-faq"
+version = "1.0.0"
+description = "Open Q&A dataset for the Swedish construction industry (byggbranschen). 310 Q&As grounded in Swedish law. By Zaragoza AB."
+readme = "README.md"
+authors = [{ name = "Zaragoza AB", email = "info@zaragoza.se" }]
+license = { text = "CC-BY-4.0" }
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Creative Commons Attribution 4.0 International",
+    "Natural Language :: Swedish",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+keywords = ["swedish", "construction", "faq", "nlp", "qa", "llm", "dataset", "byggbransch"]
+
+[project.urls]
+Homepage = "https://github.com/zaragoza-ab/swedish-construction-faq-1000"
+Repository = "https://github.com/zaragoza-ab/swedish-construction-faq-1000"
+Maintainer = "https://zaragoza.se"
+
+[tool.setuptools]
+packages = ["zaragoza_construction_faq"]
+include-package-data = true
+
+[tool.setuptools.package-data]
+zaragoza_construction_faq = ["data/*.json", "data/*.jsonl", "data/*.csv"]
