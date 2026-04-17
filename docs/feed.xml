@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Swedish Construction FAQ — Kategorier</title>
+  <subtitle>503 öppna Q&amp;A om svensk byggbransch, fördelat på 39 kategorier</subtitle>
+  <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/feed.xml" rel="self"/>
+  <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/"/>
+  <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/feed.xml</id>
+  <updated>2026-04-17T12:00:00Z</updated>
+  <author>
+    <name>Zaragoza AB</name>
+    <email>info@zaragoza.se</email>
+    <uri>https://zaragoza.se</uri>
+  </author>
+  <rights>CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/</rights>
+  <generator uri="https://github.com/zaragoza-ab/swedish-construction-faq-1000">zaragoza-seeds/gen-rss-feed</generator>
+  <entry>
+    <title>Altan, Staket &amp; Plank — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om altan, staket &amp; plank i svensk byggbransch. Exempel: "Krävs bygglov för altan?" — Altan under 1,8 meter över mark kräver normalt inte bygglov. Altan högre än så eller med tak kan kräva bygglov. Sedan 20…</summary>
+    <category term="altan-staket-plank" label="Altan, Staket &amp; Plank"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Arbetsmiljö (AFS) — 25 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">25 frågor och svar om arbetsmiljö (afs) i svensk byggbransch. Exempel: "Vad är arbetsmiljöplan?" — Planeringsdokument för arbetsmiljö på byggarbetsplats. Obligatoriskt enligt AFS 1999:3 vid projekt över 500 personarbets…</summary>
+    <category term="arbetsmiljo" label="Arbetsmiljö (AFS)"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Attefallshus &amp; Friggebod — 10 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">10 frågor och svar om attefallshus &amp; friggebod i svensk byggbransch. Exempel: "Vad är skillnaden mellan attefallshus och friggebod?" — Friggebod: max 15 m², kräver inget bygglov eller anmälan. Attefallshus: upp till 30 m², bygglovsbefriat men kräver bygga…</summary>
+    <category term="attefallshus-friggebod" label="Attefallshus &amp; Friggebod"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Badrumsrenovering — 20 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">20 frågor och svar om badrumsrenovering i svensk byggbransch. Exempel: "Vad kostar en badrumsrenovering?" — Totalrenovering 4-6 m² badrum: 150 000-400 000 SEK (2026). Arbetskostnad 50-70%. Sten och exklusiva vitvaror gör det dyr…</summary>
+    <category term="badrumsrenovering" label="Badrumsrenovering"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>BBR &amp; PBL — 25 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">25 frågor och svar om bbr &amp; pbl i svensk byggbransch. Exempel: "Vad är BBR?" — Boverkets byggregler — Sveriges tekniska byggregler. Bindande regelverk för alla byggprojekt. Omfattar säkerhet, tillgän…</summary>
+    <category term="bbr-pbl" label="BBR &amp; PBL"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Bergvärme &amp; Jordvärme — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om bergvärme &amp; jordvärme i svensk byggbransch. Exempel: "Krävs tillstånd för bergvärme?" — Ja, installation av bergvärme kräver tillstånd eller anmälan till kommunens miljökontor enligt Miljöbalken 9 kap. och fö…</summary>
+    <category term="bergvarme-jordvarme" label="Bergvärme &amp; Jordvärme"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Besiktning — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om besiktning i svensk byggbransch. Exempel: "Vad är slutbesiktning?" — Slutbesiktning är den avslutande kontrollen av entreprenaden där en oberoende besiktningsman fastställer om arbetet är k…</summary>
+    <category term="besiktning" label="Besiktning"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Buller &amp; Grannar — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om buller &amp; grannar i svensk byggbransch. Exempel: "Vilka arbetstider gäller vid byggbuller?" — Det finns ingen generell svensk lag om arbetstider vid byggen, men kommunens lokala ordningsföreskrifter och Naturvårdsv…</summary>
+    <category term="buller-granne" label="Buller &amp; Grannar"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Bygglov — 20 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">20 frågor och svar om bygglov i svensk byggbransch. Exempel: "Vad är bygglov?" — Bygglov är ett myndighetsbeslut från kommunens byggnadsnämnd som ger tillstånd att bygga, enligt Plan- och bygglagen (PB…</summary>
+    <category term="bygglov" label="Bygglov"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Tvistlösning — 9 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">9 frågor och svar om tvistlösning i svensk byggbransch. Exempel: "Vad gör jag vid tvist med byggfirma?" — Steg 1: skriftlig reklamation. Steg 2: ARN anmälan (konsument, gratis, bindande). Steg 3: tingsrätt. Hemförsäkring kan t…</summary>
+    <category term="dispute" label="Tvistlösning"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Dolda fel — 25 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">25 frågor och svar om dolda fel i svensk byggbransch. Exempel: "Vad är dolda fel?" — Fel som inte syns vid besiktning men som köparen inte kunde upptäcka. Kan ligga i grunden, taket, väggar, rör, el. Sälja…</summary>
+    <category term="dolda-fel" label="Dolda fel"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Elinstallation — 15 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">15 frågor och svar om elinstallation i svensk byggbransch. Exempel: "Vad kostar en elinstallation?" — Uttag/kontakter: 1 200-2 500 SEK/st. Ny elcentral: 15 000-40 000 SEK. Helt nytt husel: 80 000-200 000 SEK (beroende på s…</summary>
+    <category term="elinstallation" label="Elinstallation"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Energideklaration — 8 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">8 frågor och svar om energideklaration i svensk byggbransch. Exempel: "Vad är energideklaration?" — Dokument som redovisar byggnadens energianvändning. Obligatoriskt vid försäljning, uthyrning, och större renoveringar. G…</summary>
+    <category term="energideklaration" label="Energideklaration"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>F-skatt — 10 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">10 frågor och svar om f-skatt i svensk byggbransch. Exempel: "Vad är F-skatt?" — F-skatt är Skatteverkets intyg att du driver näringsverksamhet och själv betalar skatter och sociala avgifter. Obligator…</summary>
+    <category term="f-skatt" label="F-skatt"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Fasadrenovering — 12 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">12 frågor och svar om fasadrenovering i svensk byggbransch. Exempel: "Behöver jag bygglov för fasadrenovering?" — Byte till samma färg och material: oftast inget bygglov. Ändrat utseende (färg, material, fönsterstorlek): bygglov krävs…</summary>
+    <category term="fasadrenovering" label="Fasadrenovering"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Försäkring &amp; Ansvar — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om försäkring &amp; ansvar i svensk byggbransch. Exempel: "Vad innebär byggherrens ansvar?" — Byggherren har det övergripande ansvaret för att byggnadsarbetet uppfyller PBL, BBR och andra bestämmelser. Byggherren s…</summary>
+    <category term="forsakring-ansvar" label="Försäkring &amp; Ansvar"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Garantier — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om garantier i svensk byggbransch. Exempel: "Hur lång är garantitiden enligt AB 04?" — Enligt AB 04 kap. 5 § 6 är garantitiden fem år för entreprenörens arbetsprestation och två år för material och varor som…</summary>
+    <category term="garantier" label="Garantier"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Isolering — 10 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">10 frågor och svar om isolering i svensk byggbransch. Exempel: "Vad kostar tilläggsisolering?" — Väggar: 600-1 400 SEK/m² (intern) eller 800-1 800 SEK/m² (extern). Vind/tak: 200-500 SEK/m² vid åtkomlig vindsisolering.…</summary>
+    <category term="isolering" label="Isolering"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Köksrenovering — 15 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">15 frågor och svar om köksrenovering i svensk byggbransch. Exempel: "Vad kostar en köksrenovering?" — Totalrenovering (15-20 m² kök): 150 000-500 000 SEK. IKEA-standard låg, specialsnickare och stenbänk hög. Arbetskostnad …</summary>
+    <category term="koksrenovering" label="Köksrenovering"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Kontrakt (ABS 18 / AB 04) — 27 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">27 frågor och svar om kontrakt (abs 18 / ab 04) i svensk byggbransch. Exempel: "Vad är ABS18?" — Standardavtal för konsumententreprenad. Reglerar förhållandet mellan privatperson och byggfirma vid renovering/byggnatio…</summary>
+    <category term="kontrakt" label="Kontrakt (ABS 18 / AB 04)"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Kostnader &amp; offerter — 15 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">15 frågor och svar om kostnader &amp; offerter i svensk byggbransch. Exempel: "Vad kostar ett nybyggt hus?" — Nyckelfärdig villa 130 m² i Skåne: 4-6 MSEK (2026) inklusive mark. Byggnadskostnad: 25 000-40 000 SEK/m². Markkostnad va…</summary>
+    <category term="kostnader" label="Kostnader &amp; offerter"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Marklov &amp; Rivningslov — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om marklov &amp; rivningslov i svensk byggbransch. Exempel: "Vad är marklov?" — Marklov är ett tillstånd som krävs inom detaljplanelagt område för att väsentligt ändra marknivån, till exempel genom sc…</summary>
+    <category term="marklov-rivningslov" label="Marklov &amp; Rivningslov"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Omvänd moms — 8 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">8 frågor och svar om omvänd moms i svensk byggbransch. Exempel: "Vad är omvänd skattskyldighet?" — Omvänd moms innebär att köparen redovisar momsen, inte säljaren. Gäller vid försäljning av byggtjänster mellan två byggf…</summary>
+    <category term="omvand-moms" label="Omvänd moms"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Öppen spis &amp; Vedeldning — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om öppen spis &amp; vedeldning i svensk byggbransch. Exempel: "Krävs bygglov för att installera kamin?" — Installation av eldstad eller rökkanal kräver bygglovsbefriad anmälan till byggnadsnämnden enligt PBF 6 kap. 5 §. Startb…</summary>
+    <category term="oppen-spis-vedeldning" label="Öppen spis &amp; Vedeldning"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Personalliggare — 8 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">8 frågor och svar om personalliggare i svensk byggbransch. Exempel: "Vad är personalliggare?" — Register över alla personer som arbetar på byggarbetsplats. Lagstadgat sedan 2016 för byggen över 4 prisbasbelopp (~232 …</summary>
+    <category term="personalliggare" label="Personalliggare"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Radon &amp; Fuktskador — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om radon &amp; fuktskador i svensk byggbransch. Exempel: "Vad är gränsvärdet för radon i bostäder?" — Referensnivån för radon i bostäder och allmänna lokaler är 200 Bq/m³ som årsmedelvärde enligt Strålsäkerhetsmyndigheten …</summary>
+    <category term="radon-fuktskador" label="Radon &amp; Fuktskador"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Reklamationsprocess — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om reklamationsprocess i svensk byggbransch. Exempel: "Hur reklamerar man en byggtjänst?" — Reklamation ska ske skriftligt till näringsidkaren inom skälig tid efter att felet upptäckts, normalt inom två månader. …</summary>
+    <category term="reklamation-process" label="Reklamationsprocess"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>ROT-avdrag — 30 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">30 frågor och svar om rot-avdrag i svensk byggbransch. Exempel: "Vad är ROT-avdrag?" — ROT (Reparation, Om- och Tillbyggnad) är skattereduktion på 30% av arbetskostnaden vid renovering. Max 50 000 SEK per pe…</summary>
+    <category term="rot-avdrag" label="ROT-avdrag"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>RUT-avdrag — 20 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">20 frågor och svar om rut-avdrag i svensk byggbransch. Exempel: "Vad är RUT-avdrag?" — RUT (Rengöring, Underhåll, Tvätt) är skattereduktion på 50% av arbetskostnaden för hushållsnära tjänster. Max 75 000 SEK…</summary>
+    <category term="rut-avdrag" label="RUT-avdrag"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Solceller &amp; Värmepump — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om solceller &amp; värmepump i svensk byggbransch. Exempel: "Krävs bygglov för solceller?" — Sedan 1 augusti 2018 är solcellspaneler som följer byggnadens form bygglovsbefriade på en- och tvåbostadshus, om de inte…</summary>
+    <category term="solceller-varmpump" label="Solceller &amp; Värmepump"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Strandskydd — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om strandskydd i svensk byggbransch. Exempel: "Vad är strandskydd?" — Strandskydd är ett generellt skydd vid hav, sjöar och vattendrag som syftar till att trygga allmänhetens tillgång till s…</summary>
+    <category term="strandskydd" label="Strandskydd"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Takläggning — 20 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">20 frågor och svar om takläggning i svensk byggbransch. Exempel: "Vad kostar ett takbyte?" — Beror på material och storlek: tegelpannor 1 500-2 500 SEK/m², plåttak 900-1 800 SEK/m², papp/filt 600-1 200 SEK/m² (202…</summary>
+    <category term="takläggning" label="Takläggning"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Tillbyggnad — 10 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">10 frågor och svar om tillbyggnad i svensk byggbransch. Exempel: "Behöver jag bygglov för tillbyggnad?" — Ja, tillbyggnad över 15 m² kräver alltid bygglov. Mindre attefallstillbyggnad (max 15 m² på enbostadshus) kräver endast …</summary>
+    <category term="tillbyggnad" label="Tillbyggnad"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Tomtgräns &amp; Servitut — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om tomtgräns &amp; servitut i svensk byggbransch. Exempel: "Vad är ett servitut?" — Servitut är en rätt för en fastighet (härskande) att på visst sätt använda annan fastighet (tjänande), t.ex. för väg, va…</summary>
+    <category term="tomtgrans-servitut" label="Tomtgräns &amp; Servitut"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Värmesystem — 10 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">10 frågor och svar om värmesystem i svensk byggbransch. Exempel: "Vilket värmesystem är billigast i drift?" — Bergvärmepump (COP 4-5): 8-15 kr/m²/år. Fjärrvärme: 12-20 kr/m²/år. Luftvärmepump: 15-25 kr/m²/år. Direktel: 40-60 kr/m²…</summary>
+    <category term="varmesystem" label="Värmesystem"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Ventilation — 8 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">8 frågor och svar om ventilation i svensk byggbransch. Exempel: "Vad är FTX-aggregat?" — Från- och tilluft med värmeåtervinning. Återvinner 70-90% av värmen i utgående luft. Standard i moderna svenska hus. Spa…</summary>
+    <category term="ventilation" label="Ventilation"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Verifiera byggfirma — 30 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">30 frågor och svar om verifiera byggfirma i svensk byggbransch. Exempel: "Hur kontrollerar jag en byggfirma?" — 9 steg: orgnr (allabolag), F-skatt (Skatteverket), ansvarsförsäkring, Byggföretagen, ID06, Säker Vatten (vid VVS), behör…</summary>
+    <category term="verifiera-byggfirma" label="Verifiera byggfirma"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>VVS — 15 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">15 frågor och svar om vvs i svensk byggbransch. Exempel: "Vad kostar en VVS-installation?" — Nytt badrum: 40 000-80 000 SEK VVS-arbete. Köksrör-flytt: 10 000-25 000 SEK. Stambyte i hus: 150 000-350 000 SEK. ROT på…</summary>
+    <category term="vvs" label="VVS"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+  <entry>
+    <title>Yrkesbevis &amp; Certifikat — 7 byggfrågor</title>
+    <link href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html"/>
+    <id>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html</id>
+    <updated>2026-04-17T12:00:00Z</updated>
+    <summary type="html">7 frågor och svar om yrkesbevis &amp; certifikat i svensk byggbransch. Exempel: "Vad är ID06?" — ID06 är ett branschgemensamt system för identifiering, närvaroregistrering och kompetensstyrning på byggarbetsplatser. A…</summary>
+    <category term="yrkesbevis-certifikat" label="Yrkesbevis &amp; Certifikat"/>
+    <author><name>Zaragoza AB</name><email>info@zaragoza.se</email></author>
+  </entry>
+</feed>
