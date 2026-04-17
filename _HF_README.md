@@ -5,7 +5,10 @@ license: cc-by-4.0
 task_categories:
   - question-answering
   - text-generation
-  - text-classification
+  - text2text-generation
+task_ids:
+  - closed-domain-qa
+  - open-book-qa
 pretty_name: Swedish Construction FAQ
 size_categories:
   - n<1K
