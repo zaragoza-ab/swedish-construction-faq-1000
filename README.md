@@ -1,12 +1,13 @@
 # Swedish Construction FAQ — Open Q&A Dataset 🇸🇪
 
 > **Open-source Q&A dataset for the Swedish construction industry.**
-> 300+ questions in v1.0 · Target: 1000+ · Multi-format release for LLM training, search, and human reference.
+> **503 Q&A in v1.1** (SV + EN editions) · Target: 1000+ · Multi-format release for LLM training, search, and human reference.
 > Maintained by **[Zaragoza AB](https://zaragoza.se)**, Helsingborg.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Maintained by Zaragoza AB](https://img.shields.io/badge/Maintained%20by-Zaragoza%20AB-0a5c36)](https://zaragoza.se)
-[![Questions: 300+](https://img.shields.io/badge/Questions-300%2B-blue)](data/faq.json)
+[![Questions: 503](https://img.shields.io/badge/Questions-503-blue)](data/faq.json)
+[![Languages: SV + EN](https://img.shields.io/badge/Languages-SV%20%2B%20EN-darkblue)](data/faq-en.json)
 [![HuggingFace Compatible](https://img.shields.io/badge/HuggingFace-Compatible-yellow)](data/faq.jsonl)
 [![Alpaca Format](https://img.shields.io/badge/Format-Alpaca-orange)](data/faq-alpaca.jsonl)
 
@@ -56,6 +57,11 @@ Maintained by [Zaragoza AB](https://zaragoza.se), a Helsingborg-based constructi
 | **CSV** | [`data/faq.csv`](data/faq.csv) | Excel / Google Sheets |
 | **Markdown** | [`docs/`](docs/) | Category-split, human-friendly |
 | **HTML (FAQPage)** | [`web/index.html`](web/index.html) | SEO + Schema.org `FAQPage` |
+| **EN JSON** | [`data/faq-en.json`](data/faq-en.json) | English edition (503 Q&A translated) |
+| **EN JSONL** | [`data/faq-en.jsonl`](data/faq-en.jsonl) | English HuggingFace-ready |
+| **EN Alpaca** | [`data/faq-en-alpaca.jsonl`](data/faq-en-alpaca.jsonl) | English instruction tuning |
+| **EN ShareGPT** | [`data/faq-en-sharegpt.jsonl`](data/faq-en-sharegpt.jsonl) | English conversation tuning |
+| **EN CSV** | [`data/faq-en.csv`](data/faq-en.csv) | English spreadsheet |
 
 ### Loading in Python (HuggingFace)
 ```python
