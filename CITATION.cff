@@ -1,24 +1,58 @@
 cff-version: 1.2.0
-title: "Swedish Construction FAQ — Open Q&A Dataset"
-message: "If you use this dataset, please cite it."
+message: "If you use this dataset, please cite it as below."
 type: dataset
+title: "Swedish Construction FAQ — Open Q&A Dataset (SV + EN)"
+abstract: >-
+  Open bilingual (Swedish/English) question-answering dataset covering the
+  Swedish construction industry. 503 Q&A pairs across 39 categories including
+  bygglov (building permits), ROT-avdrag, RUT-avdrag, F-skatt, omvänd moms,
+  personalliggare, dolda fel, ABS 18 / AB 04 contracts, arbetsmiljö, and
+  dispute resolution. Every answer is grounded in Swedish primary law (PBL,
+  BBR, KTjL, AFS, ABS 18, AB 04, Miljöbalken) and authoritative guidance from
+  Boverket, Skatteverket, Arbetsmiljöverket, and Konsumentverket. Available in
+  JSON, JSONL, Alpaca, ShareGPT, and CSV formats.
 authors:
-  - name: Zaragoza AB
-    city: Helsingborg
+  - name: "Zaragoza AB"
+    affiliation: "Zaragoza AB, Helsingborg, Sweden"
+    city: "Helsingborg"
     country: SE
+    email: "info@zaragoza.se"
     website: "https://zaragoza.se"
-repository-code: "https://github.com/zaragoza-ab/swedish-construction-faq-1000"
 license: CC-BY-4.0
-version: "1.0.0"
+repository-code: "https://github.com/zaragoza-ab/swedish-construction-faq-1000"
+url: "https://huggingface.co/datasets/DecDEPO/swedish-construction-faq"
+version: "1.2.2"
 date-released: "2026-04-17"
 keywords:
-  - swedish
-  - construction
-  - byggbransch
-  - faq
-  - dataset
-  - llm
-  - huggingface
-  - alpaca
-  - bygglov
-  - rot-avdrag
+  - "swedish construction"
+  - "byggbransch"
+  - "bygglov"
+  - "ROT-avdrag"
+  - "RUT-avdrag"
+  - "ABS 18"
+  - "dolda fel"
+  - "question answering"
+  - "NLP dataset"
+  - "instruction tuning"
+  - "bilingual"
+  - "construction law"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19630803"
+    description: "Zenodo concept DOI"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q139393633"
+    description: "Wikidata entity"
+  - type: other
+    value: "Q139393633"
+    description: "Wikidata QID"
+preferred-citation:
+  type: dataset
+  title: "Swedish Construction FAQ — Open Q&A Dataset (SV + EN)"
+  authors:
+    - name: "Zaragoza AB"
+      affiliation: "Zaragoza AB, Helsingborg, Sweden"
+  year: 2026
+  version: "1.2.2"
+  doi: "10.5281/zenodo.19630803"
+  url: "https://doi.org/10.5281/zenodo.19630803"
