@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/dataset.html</loc>
@@ -17,6 +30,18 @@
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/altan-staket-plank.html</loc>
@@ -257,233 +282,701 @@
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/altan-staket-plank.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/arbetsmiljo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/attefallshus-friggebod.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/badrumsrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bbr-pbl.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bergvarme-jordvarme.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/besiktning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/buller-granne.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bygglov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dispute.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dolda-fel.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/elinstallation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/energideklaration.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/f-skatt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/fasadrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/forsakring-ansvar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/garantier.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/isolering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/koksrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kontrakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kostnader.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/marklov-rivningslov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/omvand-moms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/oppen-spis-vedeldning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/personalliggare.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/radon-fuktskador.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/reklamation-process.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rot-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rut-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/solceller-varmpump.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/strandskydd.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/takläggning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tillbyggnad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tomtgrans-servitut.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/varmesystem.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/ventilation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/verifiera-byggfirma.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/vvs.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html"/>
   </url>
   <url>
     <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/yrkesbevis-certifikat.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/altan-staket-plank.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/altan-staket-plank.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/altan-staket-plank.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/arbetsmiljo.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/arbetsmiljo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/arbetsmiljo.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/attefallshus-friggebod.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/attefallshus-friggebod.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/attefallshus-friggebod.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/badrumsrenovering.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/badrumsrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/badrumsrenovering.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bbr-pbl.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bbr-pbl.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bbr-pbl.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bergvarme-jordvarme.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bergvarme-jordvarme.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bergvarme-jordvarme.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/besiktning.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/besiktning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/besiktning.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/buller-granne.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/buller-granne.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/buller-granne.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bygglov.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/bygglov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/bygglov.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dispute.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dispute.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dispute.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dolda-fel.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/dolda-fel.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/dolda-fel.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/elinstallation.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/elinstallation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/elinstallation.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/energideklaration.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/energideklaration.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/energideklaration.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/f-skatt.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/f-skatt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/f-skatt.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/fasadrenovering.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/fasadrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/fasadrenovering.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/forsakring-ansvar.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/forsakring-ansvar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/forsakring-ansvar.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/garantier.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/garantier.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/garantier.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/isolering.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/isolering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/isolering.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/koksrenovering.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/koksrenovering.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/koksrenovering.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kontrakt.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kontrakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kontrakt.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kostnader.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/kostnader.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/kostnader.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/marklov-rivningslov.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/marklov-rivningslov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/marklov-rivningslov.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/omvand-moms.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/omvand-moms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/omvand-moms.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/oppen-spis-vedeldning.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/oppen-spis-vedeldning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/oppen-spis-vedeldning.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/personalliggare.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/personalliggare.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/personalliggare.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/radon-fuktskador.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/radon-fuktskador.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/radon-fuktskador.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/reklamation-process.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/reklamation-process.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/reklamation-process.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rot-avdrag.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rot-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rot-avdrag.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rut-avdrag.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/rut-avdrag.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/rut-avdrag.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/solceller-varmpump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/solceller-varmpump.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/solceller-varmpump.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/strandskydd.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/strandskydd.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/strandskydd.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/takläggning.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/takläggning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/takläggning.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tillbyggnad.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tillbyggnad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tillbyggnad.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tomtgrans-servitut.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/tomtgrans-servitut.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/tomtgrans-servitut.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/varmesystem.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/varmesystem.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/varmesystem.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/ventilation.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/ventilation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/ventilation.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/verifiera-byggfirma.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/verifiera-byggfirma.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/verifiera-byggfirma.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/vvs.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/vvs.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/vvs.html"/>
+  </url>
+  <url>
+    <loc>https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/yrkesbevis-certifikat.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/en/category/yrkesbevis-certifikat.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/category/yrkesbevis-certifikat.html"/>
   </url>
 </urlset>
