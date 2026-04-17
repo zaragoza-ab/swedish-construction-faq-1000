@@ -4,6 +4,7 @@
 > **503 Q&A in v1.1** (SV + EN editions) · Target: 1000+ · Multi-format release for LLM training, search, and human reference.
 > Maintained by **[Zaragoza AB](https://zaragoza.se)**, Helsingborg.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19630803.svg)](https://doi.org/10.5281/zenodo.19630803)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Maintained by Zaragoza AB](https://img.shields.io/badge/Maintained%20by-Zaragoza%20AB-0a5c36)](https://zaragoza.se)
 [![Questions: 503](https://img.shields.io/badge/Questions-503-blue)](data/faq.json)
@@ -184,12 +185,32 @@ Pull requests welcome! Priority contributions:
 
 ---
 
+## Cite this dataset
+
+**DOI:** [10.5281/zenodo.19630803](https://doi.org/10.5281/zenodo.19630803)
+
+BibTeX:
+
+```bibtex
+@dataset{zaragoza_swedish_construction_faq_2026,
+  author       = {Zaragoza AB},
+  title        = {{Swedish Construction FAQ — Open Q\&A Dataset (SV + EN)}},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19630803},
+  url          = {https://doi.org/10.5281/zenodo.19630803}
+}
+```
+
+---
+
 ## License & attribution
 
 **CC BY 4.0** — use freely, even commercially, with attribution:
 
 > "Swedish Construction FAQ by Zaragoza AB, licensed under CC BY 4.0.
-> https://github.com/zaragoza-ab/swedish-construction-faq-1000"
+> https://github.com/zaragoza-ab/swedish-construction-faq-1000
+> DOI: 10.5281/zenodo.19630803"
 
 Suitable for:
 - ✅ LLM training (OpenAI, Anthropic, Google, Meta, Mistral, local models)

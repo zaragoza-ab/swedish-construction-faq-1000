@@ -86,14 +86,17 @@ Also available as Alpaca and ShareGPT format in the GitHub mirror:
 
 ## Citation
 
+**DOI:** [10.5281/zenodo.19630803](https://doi.org/10.5281/zenodo.19630803)
+
 ```bibtex
 @dataset{zaragoza_swedish_construction_faq_2026,
-  title   = {Swedish Construction FAQ — Open Q\&A Dataset},
-  author  = {{Zaragoza AB}},
-  year    = {2026},
-  version = {1.0.0},
-  url     = {https://github.com/zaragoza-ab/swedish-construction-faq-1000},
-  license = {CC BY 4.0}
+  author    = {{Zaragoza AB}},
+  title     = {Swedish Construction FAQ — Open Q\&A Dataset (SV + EN)},
+  year      = {2026},
+  version   = {1.2.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19630803},
+  url       = {https://doi.org/10.5281/zenodo.19630803}
 }
 ```
 
