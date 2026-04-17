@@ -1,6 +1,7 @@
 ---
 language:
   - sv
+  - en
 license: cc-by-4.0
 task_categories:
   - question-answering
@@ -26,27 +27,31 @@ annotations_creators:
 language_creators:
   - expert-generated
 multilinguality:
-  - monolingual
+  - multilingual
 configs:
   - config_name: default
     data_files:
       - split: train
         path: "data/faq.jsonl"
+  - config_name: english
+    data_files:
+      - split: train
+        path: "data/faq-en.jsonl"
 ---
 
 # Swedish Construction FAQ
 
 Open Q&A dataset for the Swedish construction industry (byggbranschen) —
-300+ questions in v1.0, target 1000+.
+503+ questions in v1.1, target 1000+.
 
 **Maintained by** [Zaragoza AB](https://zaragoza.se), Helsingborg, Sweden.
 
 ## Dataset summary
 
-- **Language:** Swedish (`sv`)
+- **Languages:** Swedish (`sv`, default config) + English (`en`, `english` config)
 - **License:** CC BY 4.0 (attribution required)
-- **Size:** 310 Q&A pairs (v1.0.0), 25 categories
-- **Grounding:** Swedish law (PBL, BBR, Skatteverket, Arbetsmiljöverket)
+- **Size:** 503 Q&A pairs (v1.1.0), 39 categories
+- **Grounding:** Swedish law (PBL, BBR, KTjL, AFS, ABS 18, AB 04, Miljöbalken, Skatteverket, Arbetsmiljöverket)
 - **Answer length:** 30–150 words
 
 ## Categories (25)
