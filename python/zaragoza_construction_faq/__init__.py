@@ -9,10 +9,11 @@ import json
 from importlib import resources
 from typing import Iterator, Optional, Literal
 
-__version__ = "1.2.0"
+__version__ = "1.2.1"
 __maintainer__ = "Zaragoza AB"
 __maintainer_url__ = "https://zaragoza.se"
 __license__ = "CC BY 4.0"
+__doi__ = "10.5281/zenodo.19630803"
 
 Language = Literal["sv", "en"]
 
