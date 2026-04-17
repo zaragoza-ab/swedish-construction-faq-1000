@@ -1,7 +1,7 @@
 # verifiera-byggfirma
 
 > Part of **Swedish Construction FAQ** — maintained by [Zaragoza AB](https://zaragoza.se), Helsingborg.
-> License: CC BY 4.0 · 20 questions in this category
+> License: CC BY 4.0 · 30 questions in this category
 
 ---
 
@@ -202,5 +202,105 @@ Permanent kontor/verkstad, långvarig lokal närvaro, Byggföretagen-medlem, Sä
 **Sources:** Helsingborgs byggbransch
 
 *ID: `verifiera-020`*
+
+---
+
+## Hur kontrollerar jag att en byggfirma har F-skatt?
+
+Använd Skatteverkets e-tjänst Hämta företagsinformation (ska.se) eller ring 0771-567 567. Ange organisationsnummer och se om företaget har aktiv F-skatt. Du kan även begära ett F-skattebevis från företaget. Utan F-skatt blir du som beställare ansvarig för arbetsgivaravgifter och preliminärskatt — och ROT-avdrag kan inte medges.
+
+**Sources:** Skatteverket, Skatteförfarandelagen
+
+*ID: `verifiera-byggfirma-021`*
+
+---
+
+## Vad är Bolagsverkets näringslivsregister och hur använder jag det?
+
+Bolagsverket (bolagsverket.se) för register över alla svenska aktiebolag, handelsbolag och enskilda firmor. Sök på organisationsnummer eller firmanamn för att se: registreringsdatum, styrelse, firmatecknare, senaste årsredovisning och om bolaget är i konkurs eller likvidation. Ett seriöst byggföretag ska ha aktuella årsredovisningar och komplett styrelseinformation.
+
+**Sources:** Bolagsverket, Aktiebolagslagen
+
+*ID: `verifiera-byggfirma-022`*
+
+---
+
+## Vad säger kreditupplysning om en byggfirma?
+
+En kreditupplysning från UC, Creditsafe eller Syna visar företagets ekonomiska status: omsättning, resultat, soliditet, betalningsanmärkningar och eventuella skulder hos Kronofogden. Kreditbetyg under AA eller stigande betalningsanmärkningar är varningssignaler. Rapport kostar ca 100-400 kr. Begär alltid upplysning före större kontrakt. Zaragoza AB redovisar gärna egen kreditstatus på förfrågan.
+
+**Sources:** UC, Creditsafe
+
+*ID: `verifiera-byggfirma-023`*
+
+---
+
+## Är medlemskap i Byggföretagen en kvalitetsgaranti?
+
+Byggföretagen är branschorganisation med ca 3 700 medlemsföretag. Medlemskap innebär att företaget följer kollektivavtal, har F-skatt och uppfyller vissa etiska krav, men är ingen absolut kvalitetsgaranti. Kontrollera alltid även referenser, försäkring och verkliga kundrecensioner. Medlemskap verifieras på byggforetagen.se. För ROT-uppdrag är medlemskap ett plus men inte krav.
+
+**Sources:** Byggföretagen, Kollektivavtal
+
+*ID: `verifiera-byggfirma-024`*
+
+---
+
+## Vad betyder certifieringen BF9K?
+
+BF9K är Byggföretagens branschspecifika lednings- och kvalitetssystem som kombinerar ISO 9001 (kvalitet), ISO 14001 (miljö) och OHSAS/ISO 45001 (arbetsmiljö). Certifierade företag genomgår årliga tredjepartsrevisioner. Systemet är vanligt hos medelstora entreprenörer i Sverige. Certifieringen visar att företaget har dokumenterade rutiner, men garanterar inte fel- och driftsäkerhet i varje projekt.
+
+**Sources:** Byggföretagen, ISO 9001
+
+*ID: `verifiera-byggfirma-025`*
+
+---
+
+## Hur verifierar jag att takläggaren är behörig?
+
+Det finns ingen lagstadgad behörighet för takläggare i Sverige (till skillnad från el och vissa VVS-arbeten). Men TakCentrum och Plåt & Ventföretagen har utbildnings- och auktorisationsprogram. Fråga efter: genomgången utbildning från säkert takarbete (fallskydd), referenser på liknande tak, garantier på utfört arbete, och att företaget har ansvarsförsäkring på minst 10 Mkr.
+
+**Sources:** TakCentrum, Plåt & Vent
+
+*ID: `verifiera-byggfirma-026`*
+
+---
+
+## Vad är Gar-Bo och Bygg-Felförsäkring?
+
+Gar-Bo är ett försäkringsbolag som erbjuder byggfelsförsäkring och färdigställandeskydd vid nybyggnation av småhus enligt Lag om färdigställandeskydd (2014:227). Försäkringen täcker dolda fel upp till 10 år och skyddar beställaren om entreprenören går i konkurs under byggtiden. Vid nybyggnation av småhus är färdigställandeskydd ett lagkrav.
+
+**Sources:** Lag om färdigställandeskydd 2014:227, Gar-Bo
+
+*ID: `verifiera-byggfirma-027`*
+
+---
+
+## Vilken ansvarsförsäkring bör en seriös byggfirma ha?
+
+En seriös byggfirma bör ha: företagsansvarsförsäkring (minst 10 Mkr), entreprenadförsäkring som täcker pågående arbete, rättsskydd, samt eventuellt försäkring för allriskskador på byggobjektet. Begär försäkringsbrev och kontrollera giltighet hos försäkringsbolaget. Stora projekt (över 0,5 Mkr) kan kräva högre belopp. Utan försäkring riskerar du själv stora skadeanspråk.
+
+**Sources:** Försäkringsavtalslagen, Byggföretagen
+
+*ID: `verifiera-byggfirma-028`*
+
+---
+
+## Hur hittar jag verkliga kundreferenser till en byggfirma?
+
+Begär minst 3 skriftliga referenser från de senaste 12 månaderna, gärna med liknande projekttyp och storlek. Ring referenserna och ställ konkreta frågor: höll tidplanen, höll budgeten, städade man upp, levererade företaget slutbesiktningshandlingar. Komplettera med Google-recensioner, Reco.se och Hitta.se. Var uppmärksam på mönster av klagomål. Zaragoza AB delar referenslista på begäran.
+
+**Sources:** Konsumentverket, KTjL 31 §
+
+*ID: `verifiera-byggfirma-029`*
+
+---
+
+## Varningssignaler på oseriös byggfirma?
+
+Röda flaggor inkluderar: kräver stor handpenning (över 10 %) kontant, saknar F-skatt eller skriftligt avtal, uppmanar till svart arbete, vill inte lämna skriftligt pris, byter telefonnummer ofta, saknar fysisk adress, har färska betalningsanmärkningar, vägrar lämna referenser. Oseriösa aktörer verkar ofta genom nystartade aktiebolag utan årsredovisning. Kontakta alltid Skatteverket och Kronofogden vid tveksamhet.
+
+**Sources:** Konsumentverket, Skatteverket
+
+*ID: `verifiera-byggfirma-030`*
 
 ---
