@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Swedish Construction FAQ — Open Dataset (503 Q&A · CC BY 4.0)</title>
+<meta name="description" content="Open bilingual (Swedish/English) Q&A dataset for the Swedish construction industry. 503 pairs, 39 categories, CC BY 4.0. DOI 10.5281/zenodo.19630803. Maintained by Zaragoza AB.">
+<meta name="author" content="Zaragoza AB">
+<link rel="canonical" href="https://zaragoza-ab.github.io/swedish-construction-faq-1000/dataset.html">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://doi.org/10.5281/zenodo.19630803",
+  "name": "Swedish Construction FAQ — Open Q&A Dataset (SV + EN)",
+  "alternateName": ["Svensk byggbransch FAQ", "Swedish Construction Q&A"],
+  "description": "Open bilingual (Swedish/English) question-answering dataset covering the Swedish construction industry. 503 Q&A pairs across 39 categories including bygglov (building permits), ROT-avdrag, RUT-avdrag, F-skatt, omvänd moms, personalliggare, dolda fel, ABS 18 / AB 04 contracts, arbetsmiljö, and dispute resolution. Every answer is grounded in Swedish primary law (PBL, BBR, KTjL, AFS, ABS 18, AB 04, Miljöbalken) and authoritative guidance from Boverket, Skatteverket, Arbetsmiljöverket, and Konsumentverket. Available in JSON, JSONL, Alpaca, ShareGPT, and CSV formats.",
+  "url": "https://github.com/zaragoza-ab/swedish-construction-faq-1000",
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.19630803",
+    "https://www.wikidata.org/wiki/Q139393633",
+    "https://huggingface.co/datasets/DecDEPO/swedish-construction-faq",
+    "https://www.kaggle.com/datasets/zaragozaab/swedish-construction-faq",
+    "https://pypi.org/project/zaragoza-construction-faq/"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.19630803",
+      "url": "https://doi.org/10.5281/zenodo.19630803"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Wikidata QID",
+      "value": "Q139393633",
+      "url": "https://www.wikidata.org/wiki/Q139393633"
+    }
+  ],
+  "keywords": [
+    "swedish construction",
+    "byggbransch",
+    "bygglov",
+    "ROT-avdrag",
+    "RUT-avdrag",
+    "ABS 18",
+    "AB 04",
+    "dolda fel",
+    "question answering",
+    "NLP dataset",
+    "instruction tuning",
+    "bilingual",
+    "construction law",
+    "Swedish",
+    "English"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "inLanguage": ["sv", "en"],
+  "isAccessibleForFree": true,
+  "datePublished": "2026-04-17",
+  "dateModified": "2026-04-17",
+  "version": "1.2.2",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://www.wikidata.org/wiki/Q139393658",
+    "name": "Zaragoza AB",
+    "url": "https://zaragoza.se",
+    "email": "info@zaragoza.se",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Helsingborg",
+      "addressCountry": "SE"
+    },
+    "sameAs": ["https://www.wikidata.org/wiki/Q139393658"]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.wikidata.org/wiki/Q139393658",
+    "name": "Zaragoza AB",
+    "url": "https://zaragoza.se"
+  },
+  "funder": {
+    "@type": "Organization",
+    "name": "Zaragoza AB",
+    "url": "https://zaragoza.se"
+  },
+  "includedInDataCatalog": [
+    {
+      "@type": "DataCatalog",
+      "name": "Hugging Face Datasets",
+      "url": "https://huggingface.co/datasets/DecDEPO/swedish-construction-faq"
+    },
+    {
+      "@type": "DataCatalog",
+      "name": "Zenodo",
+      "url": "https://zenodo.org/records/19630803"
+    },
+    {
+      "@type": "DataCatalog",
+      "name": "Kaggle",
+      "url": "https://www.kaggle.com/datasets/zaragozaab/swedish-construction-faq"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/zaragoza-ab/swedish-construction-faq-1000/main/data/faq.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-ndjson",
+      "contentUrl": "https://raw.githubusercontent.com/zaragoza-ab/swedish-construction-faq-1000/main/data/faq.jsonl"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/zaragoza-ab/swedish-construction-faq-1000/main/data/faq.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Alpaca instruction-tuning format",
+      "encodingFormat": "application/x-ndjson",
+      "contentUrl": "https://raw.githubusercontent.com/zaragoza-ab/swedish-construction-faq-1000/main/data/faq-alpaca.jsonl"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "ShareGPT format",
+      "encodingFormat": "application/x-ndjson",
+      "contentUrl": "https://raw.githubusercontent.com/zaragoza-ab/swedish-construction-faq-1000/main/data/faq-sharegpt.jsonl"
+    }
+  ],
+  "citation": "Zaragoza AB (2026). Swedish Construction FAQ — Open Q&A Dataset (SV + EN). Version 1.2.2. DOI: 10.5281/zenodo.19630803",
+  "temporalCoverage": "2026",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Sweden",
+    "geo": { "@type": "GeoShape", "box": "55.3 10.9 69.1 24.2" }
+  },
+  "variableMeasured": [
+    { "@type": "PropertyValue", "name": "question", "description": "The question text" },
+    { "@type": "PropertyValue", "name": "answer", "description": "The answer grounded in Swedish law" },
+    { "@type": "PropertyValue", "name": "category", "description": "One of 39 thematic categories" }
+  ]
+}
+</script>
+
+<style>
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 820px; margin: 0 auto; padding: 2rem 1rem; line-height: 1.6; color: #0f172a; }
+h1 { color: #0a5c36; }
+.badges img { margin: 2px 2px 0 0; }
+table { border-collapse: collapse; margin: 0.75rem 0; }
+td, th { border: 1px solid #e2e8f0; padding: 6px 10px; text-align: left; }
+th { background: #f1f5f9; }
+a { color: #0a5c36; }
+code { background: #f1f5f9; padding: 1px 5px; border-radius: 3px; font-size: 0.92em; }
+</style>
+</head>
+<body>
+<h1>Swedish Construction FAQ — Open Dataset</h1>
+
+<p class="badges">
+  <a href="https://doi.org/10.5281/zenodo.19630803"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.19630803.svg"></a>
+  <img alt="License CC BY 4.0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg">
+  <img alt="Q&A 503" src="https://img.shields.io/badge/Questions-503-blue">
+  <img alt="Wikidata Q139393633" src="https://img.shields.io/badge/Wikidata-Q139393633-success">
+</p>
+
+<p>Open bilingual (Swedish/English) Q&amp;A dataset on the Swedish construction industry. 503 pairs across 39 categories, every answer grounded in Swedish primary law.</p>
+
+<h2>Key facts</h2>
+<table>
+  <tr><th>Size</th><td>503 Q&amp;A pairs, 39 categories</td></tr>
+  <tr><th>Languages</th><td>Swedish (sv), English (en)</td></tr>
+  <tr><th>License</th><td>CC BY 4.0</td></tr>
+  <tr><th>Version</th><td>1.2.2 (2026-04-17)</td></tr>
+  <tr><th>DOI</th><td><a href="https://doi.org/10.5281/zenodo.19630803">10.5281/zenodo.19630803</a></td></tr>
+  <tr><th>Wikidata</th><td><a href="https://www.wikidata.org/wiki/Q139393633">Q139393633</a></td></tr>
+  <tr><th>Formats</th><td>JSON, JSONL, CSV, Alpaca, ShareGPT</td></tr>
+</table>
+
+<h2>Where to get it</h2>
+<ul>
+  <li><a href="https://github.com/zaragoza-ab/swedish-construction-faq-1000">GitHub (canonical)</a></li>
+  <li><a href="https://huggingface.co/datasets/DecDEPO/swedish-construction-faq">Hugging Face Datasets</a></li>
+  <li><a href="https://zenodo.org/records/19630803">Zenodo (DOI)</a></li>
+  <li><a href="https://www.kaggle.com/datasets/zaragozaab/swedish-construction-faq">Kaggle</a></li>
+  <li><a href="https://pypi.org/project/zaragoza-construction-faq/">PyPI (<code>pip install zaragoza-construction-faq</code>)</a></li>
+</ul>
+
+<h2>Try it</h2>
+<ul>
+  <li><a href="https://huggingface.co/spaces/DecDEPO/swedish-construction-faq-search">Live search demo (HF Space)</a></li>
+  <li><a href="https://colab.research.google.com/github/zaragoza-ab/swedish-construction-faq-1000/blob/main/notebooks/quickstart.ipynb">Colab quickstart notebook</a></li>
+</ul>
+
+<h2>Citation</h2>
+<pre><code>Zaragoza AB (2026). Swedish Construction FAQ — Open Q&amp;A Dataset (SV + EN).
+Version 1.2.2. DOI: 10.5281/zenodo.19630803</code></pre>
+
+<hr>
+<p><small>Maintained by <a href="https://zaragoza.se">Zaragoza AB</a>, Helsingborg, Sweden · <a href="https://www.wikidata.org/wiki/Q139393658">Wikidata Q139393658</a></small></p>
+</body>
+</html>
